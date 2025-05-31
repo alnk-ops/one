@@ -136,7 +136,7 @@ button {
    display: flex;
     align-items: center;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
     height: 100vh;
 }
 
@@ -197,7 +197,7 @@ color: aquamarine;
     
 }
 span{
-    animation: h1 3s;
+    /* animation: h1 3s; */
 }
 @keyframes h1 {
     0%{
